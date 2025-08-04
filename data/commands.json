@@ -1,0 +1,6 @@
+{
+  "backup": {
+    "cisco_ios": ["show running-config"],
+    "huawei": ["display current-configuration"]
+  }
+}
