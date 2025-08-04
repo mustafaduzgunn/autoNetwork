@@ -1,0 +1,9 @@
+[
+  {
+    "name": "kampus_sw_1",
+    "ip": "192.168.1.1",
+    "device_type": "cisco_ios",
+    "credential_id": "admin1",
+    "tags": ["core", "kampus"]
+  }
+]
